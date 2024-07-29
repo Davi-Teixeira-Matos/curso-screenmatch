@@ -73,6 +73,5 @@ public class Principal {
                                 " Episodio: " + e.getTitulo() +
                                 " Data lançamento: " + e.getDataLancamento().format(formatador)
                 ));
-        ;
     }
 }
